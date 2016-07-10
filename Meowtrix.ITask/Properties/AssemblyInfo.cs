@@ -9,12 +9,12 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Meowtrix.ITask")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Meowtrix")]
 [assembly: AssemblyProduct("Meowtrix.ITask")]
-[assembly: AssemblyCopyright("版权所有(C)  2016")]
+[assembly: AssemblyCopyright("Copyright (C) Meowtrix  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: NeutralResourcesLanguage("zh-Hans")]
+[assembly: NeutralResourcesLanguage("")]
 
 // 程序集的版本信息由下列四个值组成: 
 //
