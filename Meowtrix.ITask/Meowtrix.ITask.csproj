@@ -41,6 +41,7 @@
     <!-- A reference to the entire .NET Framework is automatically included -->
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConfiguredTaskAwaiterWrapper.cs" />
     <Compile Include="IAwaiter.cs" />
     <Compile Include="AwaiterInterfaceWrapper.cs" />
     <Compile Include="IConfiguredTask.cs" />
