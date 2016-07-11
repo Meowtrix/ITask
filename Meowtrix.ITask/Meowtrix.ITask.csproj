@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConfiguredTaskAwaiterWrapper.cs" />
+    <Compile Include="ConfiguredTaskWrapper.cs" />
     <Compile Include="IAwaiter.cs" />
     <Compile Include="AwaiterInterfaceWrapper.cs" />
     <Compile Include="IConfiguredTask.cs" />
