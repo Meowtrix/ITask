@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>huoyaoyuan</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/Meowtrix/ITask</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Update package metadata.</releaseNotes>
+    <copyright>Copyright Meowtrix 2016</copyright>
+    <tags>Task Parallel Library TPL</tags>
+  </metadata>
+</package>
