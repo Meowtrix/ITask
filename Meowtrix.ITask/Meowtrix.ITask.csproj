@@ -49,6 +49,7 @@
     <Compile Include="ITask.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TaskAwaiterWrapper.cs" />
+    <Compile Include="TaskExtensionMethods.cs" />
     <Compile Include="TaskWrapper.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
