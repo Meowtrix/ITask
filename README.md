@@ -1,5 +1,8 @@
-[![Total Downloads](https://img.shields.io/nuget/dt/Meowtrix.ITask.svg)](http://www.nuget.org/packages/MorseCode.ITask/)
-[![Latest Stable Version](https://img.shields.io/nuget/v/Meowtrix.ITask.svg)](http://www.nuget.org/packages/MorseCode.ITask/)
+[![Total Downloads](https://img.shields.io/nuget/dt/Meowtrix.ITask.svg)](http://www.nuget.org/packages/Meowtrix.ITask/)
+[![Latest Stable Version](https://img.shields.io/nuget/v/Meowtrix.ITask.svg)](http://www.nuget.org/packages/Meowtrix.ITask/)
+
+> This project is now a part of [Meowtrix.UniversalClassLibrary](https://github.com/Meowtrix/UniversalClassLibrary).
+
 # ITask
 An interface wrapper for Task Parallel Library, provides covariance.
 
